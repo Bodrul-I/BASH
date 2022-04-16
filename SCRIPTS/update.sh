@@ -7,4 +7,6 @@ sudo apt-get dist-upgrade -y
 sleep 2
 sudo apt autoremove
 
+exit
+
 

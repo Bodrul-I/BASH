@@ -1,0 +1,14 @@
+#!/usr/bin/bash
+
+# This is a simple update script 
+
+sudo apt update
+sudo apt upgrade 
+
+exit 
+
+
+
+
+
+
