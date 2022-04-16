@@ -3,10 +3,9 @@
 # Check our system. 
 
 echo "Memory:"
-free -h
+/usr/bin/free -h
 echo "Disk Usage:"
-du -h
+/usr/bin/df -h
 echo "Uptime:"
-uptime
-
+/usr/bin/uptime
 exit 
